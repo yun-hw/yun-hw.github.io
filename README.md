@@ -5,11 +5,8 @@
     <meta charset="UTF-8">
     <title>Company</title>
  
-    <!-- 반응형 웹 만들기 -->
-    <!-- 1. 모바일용 css -->
     <link rel="stylesheet" href="./company_mobile.css" media="(max-width:600px)">
  
-    <!-- 2. 데스크탑용 외부 스타일시트 적용 -->
     <link rel="stylesheet" href="./company.css" media="(min-width:600px)">
 </head>
 <body>
